@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0217-contains-duplicate) |
+| [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2876-number-of-employees-who-met-the-target) |
 ## Dynamic Programming
 |  |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0217-contains-duplicate) |
+| [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0151-reverse-words-in-a-string) |
+| [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 ## String
 |  |
 | ------- |
