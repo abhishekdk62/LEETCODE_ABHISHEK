@@ -17,10 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0242-valid-anagram) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
