@@ -4,9 +4,19 @@
  * @param {number} t
  * @return {Function}
  */
+
 var cancellable = function(fn, args, t) {
- return fn(...args)
-    
+    const timeoutId = setTimeout(() => {
+        fn(...args);
+    }, t);
+
+    const cancelFn = () => {
+        clearTimeout(timeoutId);
+    };
+
+    return cancelFn;
+
+
 };
 
 /**
