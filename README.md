@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0217-contains-duplicate) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
