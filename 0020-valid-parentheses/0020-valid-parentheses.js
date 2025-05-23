@@ -2,46 +2,35 @@
  * @param {string} s
  * @return {boolean}
  */
-var isValid = function(s) {
+var isValid = function (s) {
+    let pairs = {
+        "}": "{",
+        ")": "(",
+        "]": "["
+    }
+    let stack = []
+    let map = {}
+    let sr = s.split("")
+    for (let v of sr) {
+        if (v == "{" || v == "(" || v == "[") {
+            stack.push(v)
+        } else {
+            let popped = stack.pop()
+            if (pairs[v] != popped) {
 
-let pairs={
-    "}":"{",
-    ")":"(",
-    "]":"["
-}
-let flag=false
-let stack=[]
-let e=[]
-let b=[]
-s.split("").map((v)=>{
+                return false
+            }
+        }
 
-if(v=="{"||v=="("||v=="[")
+
+    }
+ if(stack.length==0)
 {
-stack.push(v)
-b.push(v)
+    return true
 }
 else
 {
-    e.push(v)
-    let popepd=stack.pop()
-
-    if(pairs[v]!=popepd)
-    {
-        flag= false
-    }
-    else
-    {
-        e.pop()
-        flag= true
-    }
-  
-
+    return false
 }
 
-})
-if(e.length!=0||stack.length!=0)
-{
-    flag=false
-}
- return flag   
 };
