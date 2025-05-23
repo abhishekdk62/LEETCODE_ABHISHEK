@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0217-contains-duplicate) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0242-valid-anagram) |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0206-reverse-linked-list) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
