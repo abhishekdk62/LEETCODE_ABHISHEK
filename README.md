@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0242-valid-anagram) |
+| [3194-find-words-containing-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3194-find-words-containing-character) |
 ## Linked List
 |  |
 | ------- |
