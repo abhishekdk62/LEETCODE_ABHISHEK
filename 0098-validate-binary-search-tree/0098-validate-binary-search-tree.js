@@ -11,13 +11,12 @@
  * @return {boolean}
  */
 var isValidBST = function(root) {
-    function search(node,min,max)
+    function search(node=root,min=-Infinity,max=Infinity)
     {
 if(node==null) return true
 if(node.val>=max||node.val<=min) return false
 return search(node.left,min,node.val)&&search(node.right,node.val,max)
 
     }
-return search(root,-Infinity,Infinity)
-
+return search()
 };
