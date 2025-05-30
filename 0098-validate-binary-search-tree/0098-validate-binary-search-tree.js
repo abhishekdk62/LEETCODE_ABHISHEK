@@ -10,13 +10,12 @@
  * @param {TreeNode} root
  * @return {boolean}
  */
-var isValidBST = function(root) {
-    function search(node=root,min=-Infinity,max=Infinity)
-    {
-if(node==null) return true
-if(node.val>=max||node.val<=min) return false
-return search(node.left,min,node.val)&&search(node.right,node.val,max)
+var isValidBST = function(root,min=-Infinity,max=Infinity) {
 
-    }
-return search()
+    if(!root) return true
+
+    if(root.val<=min||root.val>=max)  return false
+
+    return isValidBST(root.left,min,root.val)&&isValidBST(root.right,root.val,max)
+    
 };
