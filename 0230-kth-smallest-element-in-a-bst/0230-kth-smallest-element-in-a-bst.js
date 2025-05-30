@@ -13,16 +13,23 @@
  */
 var kthSmallest = function(root, k) {
 
+let ans=[]
+const get=(root,ans)=>{
 
-    let arr=[]
-    function inOrder(root,arr)
-    {
-        if(root==null) return 
-        console.log(root.val)
-         inOrder(root.left,arr)
-        arr.push(root.val)
-         inOrder(root.right,arr)
-    }
-    inOrder(root,arr)
-return arr[k-1]    
+
+if(!root) return 
+
+
+get(root.left,ans)
+ans.push(root.val)
+get(root.right,ans)
+
+
+
+}
+get(root,ans)
+return ans[k-1]
+
+
+    
 };
