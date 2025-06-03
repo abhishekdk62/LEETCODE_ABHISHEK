@@ -18,7 +18,8 @@ var cloneGraph = function(node,map=new Map()) {
     for(let neighbor of node.neighbors)
     {
         clone.neighbors.push(cloneGraph(neighbor,map))
+        
     }
 
-return clone
+    return clone
 };
