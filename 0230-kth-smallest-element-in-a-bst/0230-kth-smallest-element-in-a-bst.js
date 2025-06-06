@@ -12,24 +12,22 @@
  * @return {number}
  */
 var kthSmallest = function(root, k) {
-
-let ans=[]
-const get=(root,ans)=>{
-
-
-if(!root) return 
-
-
-get(root.left,ans)
-ans.push(root.val)
-get(root.right,ans)
-
-
-
+let count=0
+let res=null
+function inOrder(root)
+{
+    if(!root) return
+inOrder(root.left)
+count++
+if(k==count)
+{
+    res=root.val
+    return
 }
-get(root,ans)
-return ans[k-1]
+inOrder(root.right)
 
 
-    
+}inOrder(root)
+
+    return(res)
 };
