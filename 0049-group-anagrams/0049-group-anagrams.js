@@ -2,22 +2,23 @@
  * @param {string[]} strs
  * @return {string[][]}
  */
-var groupAnagrams = function(strs) {
+var groupAnagrams = function (strs) {
 
-    let strings=strs.map((v)=>v.split("").sort().join(""))
+
+let arr=strs.map((v)=>(v.split("").sort().join("")))
 let map={}
+arr.forEach((v,i)=>{
 
-strings.forEach((v,i)=>{
     if(map[v])
     {
 map[v].push(strs[i])
     }else
     {
-         map[v]=[strs[i]]
+        map[v]=[strs[i]]
     }
+
 })
-    
-    console.log(map)
-    return Object.values(map)
-    
+
+return(Object.values(map))
+
 };
