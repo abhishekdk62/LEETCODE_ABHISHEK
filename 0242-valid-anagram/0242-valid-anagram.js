@@ -4,25 +4,14 @@
  * @return {boolean}
  */
 var isAnagram = function(s, t) {
-    if(s.length!=t.length)
-    {
-        return false
-    }
-let map={}
-s.split("").forEach((v)=>{
-map[v]=(map[v]||0)+1
+    if(s.length!=t.length) return false
+
+let strs=s.split("").sort()
+let ttrs=t.split("").sort()
+let flag=true
+strs.map((v,i)=>{
+    if(ttrs[i]!=v) flag=false 
 })
-for(let char of t)
-{
-    if(map[char])
-    {
-        map[char]=map[char]-1
-    }
-    else
-    {
-        return false
-    }
-}
+if(!flag) return false
 return true
-    
 };
