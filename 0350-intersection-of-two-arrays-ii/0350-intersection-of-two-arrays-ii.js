@@ -4,11 +4,9 @@
  * @return {number[]}
  */
 var intersect = function(nums1, nums2) {
- let ar1=nums1.sort()
- let ar2=nums2.sort()
-
+ let ar1=nums1
+ let ar2=nums2
 let ar=[]
-
  for(let i=0;i<ar1.length;i++)
  {
     for(let j=0;j<ar2.length;j++)
