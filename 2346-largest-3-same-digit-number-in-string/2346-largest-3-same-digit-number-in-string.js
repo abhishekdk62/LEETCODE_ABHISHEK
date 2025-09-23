@@ -1,23 +1,37 @@
+/**
+ * @param {string} num
+ * @return {string}
+ */
 var largestGoodInteger = function (num) {
-    let last = ""; // last seen digit
-    let count = 0; // consecutive count
-    let max = "";  // max good integer found
+    let last = ""
+    let count = 0
+    let max = -Infinity
+    nums = num.split("")
+    nums.forEach((v) => {
 
-    for (let i = 0; i < num.length; i++) {
-        if (num[i] === last) {
-            count += 1;
-        } else {
-            last = num[i];
-            count = 1;
+        if (v == last) {
+            count++
         }
+        else {
 
-        // check if we got 3 consecutive digits
-        if (count === 3) {
-            if (num[i] > max) {
-                max = num[i];
+            count = 1
+            last = v
+        }
+        if (count == 3) {
+            if (v > max) {
+                max = v
+
             }
-        }
-    }
 
-    return max === "" ? "" : max + max + max;
+        }
+
+    })
+    let ans = ""
+    console.log(max)
+    if(max==-Infinity)
+    {
+        return ""
+    }
+    return ans + max + max + max
+
 };
