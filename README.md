@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0242-valid-anagram) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3194-find-words-containing-character) |
 ## Linked List
 |  |
