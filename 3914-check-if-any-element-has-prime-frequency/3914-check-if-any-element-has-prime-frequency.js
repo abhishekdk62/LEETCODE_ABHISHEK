@@ -15,32 +15,25 @@ var checkPrimeFrequency = function (nums) {
     console.log(map)
 
 
-    const isPrime = (value) => {
-        if(value!=2&&value%2==0)
-        {
-return false
+    const isPrime = (val) => {
+        for (let i = 1; i < val; i++) {
+                 for (let i = 2; i * i <= val; i++) {
+            if (val % i === 0) return false; // divisible → not prime
         }
-        if(value==9&&value%3==0)
-        {
-return false
-        }
-        if(value==49&&value%7==0)
-        {
-return false
-        }
-        if (value % value == 0) {
-            return true
+        return true;
+
         }
     }
-
     for (let i in map) {
-        if (map[i] > 1) {
-            if (isPrime(map[i])) {
-                return true
-            }
-        }
-    }
 
+       if(map[i]>1)
+       {
+         if (isPrime(map[i])) {
+            return true
+
+        }
+       }
+    }
     return false
 
 };
