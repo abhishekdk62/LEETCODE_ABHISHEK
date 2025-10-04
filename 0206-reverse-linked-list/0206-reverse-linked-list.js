@@ -11,17 +11,17 @@
  */
 var reverseList = function(head) {
 
-    let current=head
     let prev=null
-  while(current)
-  {
-      let next=current.next
-    current.next=prev
-    prev=current
-    current=next
-  }
-  //in vs code you just make the prev as this.head
-return prev
-
-    
+    let cur=head
+    let temp=null
+    while(cur)
+    {
+        temp=cur.next
+        cur.next=prev
+        prev=cur
+        cur=temp
+        
+    }
+    head=prev
+    return head
 };
