@@ -12,15 +12,16 @@
 var reverseList = function(head) {
 
     let prev=null
-    let cur=head
     let temp=null
-    while(cur)
-    {
-        temp=cur.next
-        cur.next=prev
-        prev=cur
-        cur=temp
-        
-    }
-    return prev
+    let cur=head
+
+while(cur)
+{
+    temp=cur.next
+    cur.next=prev
+    prev=cur
+    cur=temp
+}
+return prev
+    
 };
