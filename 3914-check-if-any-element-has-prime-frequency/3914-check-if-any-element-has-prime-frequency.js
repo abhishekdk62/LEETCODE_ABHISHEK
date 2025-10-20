@@ -4,40 +4,38 @@
  */
 var checkPrimeFrequency = function (nums) {
     let map = {}
+
     nums.forEach((v) => {
-        if (map[v]) {
-            map[v] = map[v] + 1
-        }
-        else {
-            map[v] = 1
-        }
+        map[v] = (map[v] | 0) + 1
     })
-    console.log(map)
+let flag
+    function check(arr) {
+        for (let i = 0; i < arr.length; i++) {
+                        let freq = arr[i];
 
+            if (freq < 2) continue; 
+             flag=true
+            for (let j = 2; j < arr[i]; j++) {
 
-    const isPrime = (value) => {
-        if (value != 2 && value % 2 == 0) {
-            return false
-        }
-        if (value == 9 && value % 3 == 0) {
-            return false
-        }
-        if (value == 49 && value % 7 == 0) {
-            return false
-        }
-        if (value % value == 0) {
-            return true
-        }
-    }
+                if(arr[i]%j==0)
+                {
+                    flag=false
+                }
 
-    for (let i in map) {
-        if (map[i] > 1) {
-            if (isPrime(map[i])) {
-                return true
             }
+            if(flag)
+            {
+                return flag
+            }
+
         }
     }
-
+ check(Object.values(map))
+ if(flag)
+ {
+    return flag
+ }else
+ {
     return false
-
+ }
 };
