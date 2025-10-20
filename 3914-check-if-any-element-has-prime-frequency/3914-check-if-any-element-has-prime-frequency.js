@@ -13,7 +13,7 @@ let flag
         for (let i = 0; i < arr.length; i++) {
                         let freq = arr[i];
 
-            if (freq < 2) continue; 
+            if (freq ==1) continue; 
              flag=true
             for (let j = 2; j < arr[i]; j++) {
 
