@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0342-power-of-four) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3914-check-if-any-element-has-prime-frequency) |
