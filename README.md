@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0342-power-of-four) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -209,9 +211,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
