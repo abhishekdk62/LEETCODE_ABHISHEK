@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0342-power-of-four) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0069-sqrtx) |
 | [0098-validate-binary-search-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
