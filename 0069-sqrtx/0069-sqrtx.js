@@ -3,5 +3,12 @@
  * @return {number}
  */
 var mySqrt = function(x) {
-    return Math.floor(Math.sqrt(x))
+    
+    if(x<2) return x
+    let i=1
+    while(i*i<=x)
+    {
+        i++
+    }
+    return i-1
 };
