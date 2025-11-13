@@ -11,15 +11,12 @@
  * @return {_Node}
  */
 var cloneGraph = function (node, map = new Map()) {
-    if(!node) return null
-if (map.has(node)) return map.get(node)
-
-const clone = { val: node.val, neighbors:[] };
-
-map.set(node,clone)
-for(let neighbor of node.neighbors)
-{
-    clone.neighbors.push(cloneGraph(neighbor,map))
-}
-return clone
+    if (!node) return null
+    if (map.has(node)) return map.get(node)
+    let clone = { val: node.val, neighbors: [] }
+    map.set(node, clone)
+    for (let neighbor of node.neighbors) {
+        clone.neighbors.push(cloneGraph(neighbor, map))
+    }
+    return clone
 };
