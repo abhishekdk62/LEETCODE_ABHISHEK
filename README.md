@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3194-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3668-restore-finishing-order) |
+| [3745-maximize-expression-of-three-elements](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3745-maximize-expression-of-three-elements) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
+| [3745-maximize-expression-of-three-elements](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3745-maximize-expression-of-three-elements](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0605-can-place-flowers) |
+| [3745-maximize-expression-of-three-elements](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3745-maximize-expression-of-three-elements) |
 ## Backtracking
 |  |
 | ------- |
