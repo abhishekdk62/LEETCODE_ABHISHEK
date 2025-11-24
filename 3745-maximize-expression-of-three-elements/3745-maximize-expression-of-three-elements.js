@@ -4,23 +4,15 @@
  */
 var maximizeExpressionOfThree = function (nums) {
 
-    let max = -Infinity
-    let sec = -Infinity
-    let min = Infinity
 
-    nums.forEach((v) => {
+  let max1=Math.max(...nums)
+  let mi=nums.findIndex((v)=>v==max1)
+  
+  nums.splice(mi,1)
+  let max2=Math.max(...nums)
+  let min=Math.min(...nums)
 
-        if (v > max) {
-            sec = max
-            max = v
-        } else if (v > sec) {
-            sec = v
-        }
-        if(v<min)
-        {
-            min=v
-        }
 
-    })
-return max+sec-min
+
+     return max1 + max2 - min
 };
