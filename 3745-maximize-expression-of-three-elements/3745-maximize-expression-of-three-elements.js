@@ -3,18 +3,24 @@
  * @return {number}
  */
 var maximizeExpressionOfThree = function (nums) {
-    let sum = 0
-    let ans = -Infinity
-    for (let i = 0; i < nums.length; i++) {
-        for (let j =0; j < nums.length; j++) {
-            for (let k = 0; k < nums.length; k++) {
-                sum = nums[i] + nums[j] - nums[k]
-                if (sum > ans&&i!=j&&i!=k&&j!=k) {
-                    
-                    ans = sum
-                }
-            }
+
+    let max = -Infinity
+    let sec = -Infinity
+    let min = Infinity
+
+    nums.forEach((v) => {
+
+        if (v > max) {
+            sec = max
+            max = v
+        } else if (v > sec) {
+            sec = v
         }
-    }
-    return ans
+        if(v<min)
+        {
+            min=v
+        }
+
+    })
+return max+sec-min
 };
