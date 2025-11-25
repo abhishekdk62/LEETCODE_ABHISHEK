@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1672-richest-customer-wealth) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1929-concatenation-of-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0200-number-of-islands) |
+| [1672-richest-customer-wealth](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
 | ------- |
