@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1929-concatenation-of-array) |
 | [2486-most-frequent-even-element](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2574-left-and-right-sum-differences](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2574-left-and-right-sum-differences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -282,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
