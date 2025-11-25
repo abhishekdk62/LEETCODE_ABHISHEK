@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2486-most-frequent-even-element](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2574-left-and-right-sum-differences](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2574-left-and-right-sum-differences) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0200-number-of-islands) |
 | [1672-richest-customer-wealth](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1672-richest-customer-wealth) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
