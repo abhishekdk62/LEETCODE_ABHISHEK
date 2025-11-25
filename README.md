@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3194-find-words-containing-character) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3668-restore-finishing-order) |
 | [3745-maximize-expression-of-three-elements](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3745-maximize-expression-of-three-elements) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3467-transform-array-by-parity](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3467-transform-array-by-parity) |
 | [3745-maximize-expression-of-three-elements](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2486-most-frequent-even-element) |
+| [3467-transform-array-by-parity](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3467-transform-array-by-parity) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Number Theory
 |  |
