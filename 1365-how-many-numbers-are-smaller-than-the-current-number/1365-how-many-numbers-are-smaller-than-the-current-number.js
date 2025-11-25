@@ -4,14 +4,16 @@
  */
 var smallerNumbersThanCurrent = function (nums) {
     let res = []
-    for (let i in nums) {
-        let count=0
-        for (let j in nums) {
-            if (nums[j] < nums[i] && i != j) {
-count++
+    for(let i=0;i<nums.length;i++) {
+        let count = 0
+       for(let j=0;j<nums.length;j++) {
+            if (nums[j] < nums[i]) {
+                count++
             }
         }
-        res[i]=count
+        res[i] = count
+
+        
     }
-return res
+    return res
 };
