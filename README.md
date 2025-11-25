@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3194-find-words-containing-character) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0242-valid-anagram) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3194-find-words-containing-character) |
 ## Linked List
 |  |
