@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3701-compute-alternating-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3745-maximize-expression-of-three-elements) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Dynamic Programming
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1929-concatenation-of-array) |
+| [3701-compute-alternating-sum](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3701-compute-alternating-sum) |
 ## Greedy
 |  |
 | ------- |
