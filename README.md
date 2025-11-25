@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0605-can-place-flowers) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1929-concatenation-of-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2486-most-frequent-even-element) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0342-power-of-four) |
+| [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2486-most-frequent-even-element) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3914-check-if-any-element-has-prime-frequency) |
