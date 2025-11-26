@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3194-find-words-containing-character) |
 | [3285-find-indices-of-stable-mountains](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3285-find-indices-of-stable-mountains) |
