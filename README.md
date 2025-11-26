@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1528-shuffle-string) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0242-valid-anagram) |
+| [1528-shuffle-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1816-truncate-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
