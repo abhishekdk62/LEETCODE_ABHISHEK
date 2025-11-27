@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0094-binary-tree-inorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0098-validate-binary-search-tree) |
 | [0133-clone-graph](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0200-number-of-islands) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
