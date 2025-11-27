@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3110-score-of-a-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3194-find-words-containing-character) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3541-find-most-frequent-vowel-and-consonant) |
