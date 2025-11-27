@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0342-power-of-four) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
