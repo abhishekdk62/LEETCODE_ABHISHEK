@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0605-can-place-flowers) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1528-shuffle-string) |
