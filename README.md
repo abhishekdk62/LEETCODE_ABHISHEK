@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1108-defanging-an-ip-address) |
