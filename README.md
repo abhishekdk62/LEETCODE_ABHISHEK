@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1528-shuffle-string) |
+| [1550-three-consecutive-odds](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1550-three-consecutive-odds) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1672-richest-customer-wealth](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1684-count-the-number-of-consistent-strings) |
