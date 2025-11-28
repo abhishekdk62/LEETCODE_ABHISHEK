@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1108-defanging-an-ip-address) |
+| [1446-consecutive-characters](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1816-truncate-sentence) |
