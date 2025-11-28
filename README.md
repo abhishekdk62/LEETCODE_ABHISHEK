@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0367-valid-perfect-square) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0258-add-digits) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Trie
 |  |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1929-concatenation-of-array) |
 | [3701-compute-alternating-sum](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3701-compute-alternating-sum) |
