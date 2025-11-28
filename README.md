@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0268-missing-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Tree
 |  |
@@ -363,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
