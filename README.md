@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0771-jewels-and-stones) |
+| [0859-buddy-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1189-maximum-number-of-balloons) |
