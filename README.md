@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2469-convert-the-temperature) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2413-smallest-even-multiple) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Trie
 |  |
