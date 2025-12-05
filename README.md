@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1189-maximum-number-of-balloons) |
 | [1446-consecutive-characters](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1528-shuffle-string) |
+| [1678-goal-parser-interpretation](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1816-truncate-sentence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
