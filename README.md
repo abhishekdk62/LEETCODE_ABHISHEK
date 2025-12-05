@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0414-third-maximum-number) |
 | [0605-can-place-flowers](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0605-can-place-flowers) |
+| [0821-shortest-distance-to-a-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0821-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0821-shortest-distance-to-a-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0821-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
 ## String
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0520-detect-capital) |
 | [0771-jewels-and-stones](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0771-jewels-and-stones) |
+| [0821-shortest-distance-to-a-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0821-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1108-defanging-an-ip-address) |
