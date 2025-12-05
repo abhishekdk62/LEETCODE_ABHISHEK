@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1817-calculate-money-in-leetcode-bank) |
