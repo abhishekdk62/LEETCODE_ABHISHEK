@@ -5,12 +5,10 @@ var interpret = function(command) {
             result += 'G';
         } else if (command[i] === '(' && command[i+1] === ')') {
             result += 'o';
-            i++; // skip the ')'
-        } else if (command[i] === '(') {
-            let j = i + 1;
-            while (command[j] !== ')') j++;
-            result += command.slice(i+1, j); // add what's inside ()
-            i = j; // skip to the closing ')'
+            i++; // skip ')'
+        } else if (command[i] === '(' && command[i+1] === 'a') {
+            result += 'al';
+            i += 3; // skip "(al)"
         }
     }
     return result;
