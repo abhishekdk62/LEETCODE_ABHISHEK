@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1929-concatenation-of-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Graph
 |  |
 | ------- |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3745-maximize-expression-of-three-elements](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3745-maximize-expression-of-three-elements) |
 ## Simulation
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
