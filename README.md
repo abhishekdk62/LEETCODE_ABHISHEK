@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0821-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
+| [2396-strictly-palindromic-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2469-convert-the-temperature) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -430,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
