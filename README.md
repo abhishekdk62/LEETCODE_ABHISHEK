@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1816-truncate-sentence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1816-truncate-sentence) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1929-concatenation-of-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1512-number-of-good-pairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2235-add-two-integers) |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2396-strictly-palindromic-number) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
