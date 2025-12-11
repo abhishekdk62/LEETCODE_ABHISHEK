@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0200-number-of-islands) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Math
 |  |
 | ------- |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0133-clone-graph) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Database
 |  |
 | ------- |
