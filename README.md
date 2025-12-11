@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2486-most-frequent-even-element](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2486-most-frequent-even-element) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2574-left-and-right-sum-differences](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2574-left-and-right-sum-differences) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Graph
 |  |
 | ------- |
