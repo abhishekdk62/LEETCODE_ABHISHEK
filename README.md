@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0206-reverse-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3701-compute-alternating-sum) |
 ## Greedy
