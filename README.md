@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2574-left-and-right-sum-differences](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2574-left-and-right-sum-differences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2486-most-frequent-even-element](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2486-most-frequent-even-element) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Graph
 |  |
