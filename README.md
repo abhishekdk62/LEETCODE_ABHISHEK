@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0450-delete-node-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0450-delete-node-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0112-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0450-delete-node-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
