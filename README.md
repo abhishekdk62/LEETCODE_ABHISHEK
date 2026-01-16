@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0821-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0859-buddy-strings) |
