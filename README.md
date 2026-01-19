@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0645-set-mismatch) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0821-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0958-sort-array-by-parity-ii) |
+| [1002-find-common-characters](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1002-find-common-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0771-jewels-and-stones) |
 | [0859-buddy-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0859-buddy-strings) |
+| [1002-find-common-characters](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1189-maximum-number-of-balloons) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0771-jewels-and-stones) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0821-shortest-distance-to-a-character) |
 | [0859-buddy-strings](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/0859-buddy-strings) |
+| [1002-find-common-characters](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/abhishekdk62/LEETCODE_ABHISHEK/tree/master/1189-maximum-number-of-balloons) |
